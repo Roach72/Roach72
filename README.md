@@ -1,7 +1,7 @@
 # Roshdy Saeed  
 **Python Developer | Back-End | Django | MySQL | AWS & GCP Enthusiast**
 
-[LinkedIn](https://www.linkedin.com/in/roshdy-said-189830222) • [Facebook](https://www.facebook.com/roshdy.said.754) • WhatsApp/Phone: [+20 109 093 5044](https://wa.me/201090935044)
+[LinkedIn](https://www.linkedin.com/in/roshdy-said-189830222) • [Facebook](https://www.facebook.com/roshdy.said.754) • [Gmail](roshdysaid72@gmail.com) • WhatsApp/Phone: [+20 109 093 5044](https://wa.me/201090935044)
 
 ---
 
